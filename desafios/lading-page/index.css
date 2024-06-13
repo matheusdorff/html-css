@@ -1,0 +1,31 @@
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgb(49, 49, 158);
+}
+
+div {
+    width: 400px;
+    height: 200px;
+    margin: auto;
+    margin-top: 200px;
+    background-color: white;
+    text-align: center;
+}
+
+footer {
+    width: 400px;
+    margin: auto;
+    margin-top: 300px;
+    color: white;
+}
+
+footer > p > a {
+    color: white;
+    te
+}
