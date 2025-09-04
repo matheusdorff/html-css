@@ -1,0 +1,40 @@
+/*Estilo básico (CSS externo é o ideal)*/
+    * {
+      margin: 0px;
+      padding: 0px;
+    }
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+    }
+    header, nav, main, footer {
+      padding: 20px;
+    }
+    header {
+      background: #333;
+      color: white;
+    }
+    nav a {
+      margin-right: 15px;
+      text-decoration: none;
+      color: #0077cc;
+    }
+    nav a:hover {
+      text-decoration: underline;
+      color: #f9f9f9;
+    }
+    main {
+      padding: 20px;
+      background: #f9f9f9;
+    }
+
+    img {
+      width: 50%;
+      border-radius: 10px;
+    }
+    footer {
+      background: #333;
+      color: white;
+      text-align: center;
+      padding: 10px;
+    }
